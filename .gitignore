@@ -1,3 +1,5 @@
 .metadata/
 RemoteSystemsTempFiles/
 .*
+springaop-proxy/out/
+springaop-proxy/springaop-proxy.iml
